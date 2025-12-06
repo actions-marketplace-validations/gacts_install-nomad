@@ -30,8 +30,8 @@
     "@actions/tool-cache": "^2.0.1"
   },
   "devDependencies": {
-    "@vercel/ncc": "^0.38.3",
-    "eslint": "^8.57.1"
+    "@vercel/ncc": "^0.38.4",
+    "eslint": "^9.39.1"
   },
   "eslintConfig": {
     "env": {
